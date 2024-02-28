@@ -1,0 +1,19 @@
+Using pre-set license
+Built from '2021.3/release' branch; Version is '2021.3.17f1 (3e8111cac19d) revision 4096273'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'en' Physical Memory: 16238 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/christian.backstrom/Perforce/christian.backstrom-GP2/FG22_GP2_North_Team04/Team04 - GP2
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49653
+Successfully changed project path to: C:/Users/christian.backstrom/Perforce/christian.backstrom-GP2/FG22_GP2_North_Team04/Team04 - GP2

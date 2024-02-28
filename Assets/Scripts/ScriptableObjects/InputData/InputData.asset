@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 421cc5d66a615a1428bfd79232cacc66, type: 3}
+  m_Name: InputData
+  m_EditorClassIdentifier: 
+  entries:
+  - key: Keyboard
+    prompt: Press "E" to interact
+    p1Prefab: {fileID: 8354811391448574803, guid: 9d52bada661d2e74eac54a2f2ade4a7b,
+      type: 3}
+    p2Prefab: {fileID: 8354811391448574803, guid: f4d78c48049969449b4346b179ae299e,
+      type: 3}
+  - key: Xbox Controller
+    prompt: Press "A" to interact
+    p1Prefab: {fileID: 8354811391448574803, guid: 738fef7626f961d4198f7225ba0848fb,
+      type: 3}
+    p2Prefab: {fileID: 8354811391448574803, guid: 0d40873e24a7e3d45821a8234f7f0968,
+      type: 3}
+  - key: Wireless Controller
+    prompt: Press X to interact
+    p1Prefab: {fileID: 8354811391448574803, guid: d0470b7348249a64da8859c797c6b2ed,
+      type: 3}
+    p2Prefab: {fileID: 8354811391448574803, guid: 4170357f6e6ac1b458fea0590b284c85,
+      type: 3}

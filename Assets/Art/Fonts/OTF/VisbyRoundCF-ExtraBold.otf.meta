@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 98053c14cd520124cbf9c82c256ee718
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Visby Round CF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1564062956f3a074c9b9973ea5cea226, type: 3}
+  - {fileID: 12800000, guid: c22c1c6a4ad40f540947c96dcbebc747, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
